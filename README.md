@@ -11,12 +11,14 @@ Programming Language: Java
 Nova AI is a web-based Artificial Intelligence Chatbot developed using Java, HTML, CSS, and JavaScript. It allows users to interact with a virtual assistant through a simple and user-friendly interface.
 The chatbot uses Natural Language Processing (NLP)-style text processing, keyword matching, and a predefined FAQ knowledge base to understand user messages and generate suitable responses.
 
+
 2. Objectives
 - To develop a Java-based AI chatbot.
 - To understand basic Artificial Intelligence concepts.
 - To implement NLP-style text processing.
 - To provide automatic responses to user questions.
 - To create an interactive chatbot website.
+
 
 3. Technologies Used
 Technology	Purpose
@@ -26,6 +28,7 @@ CSS	Website styling
 JavaScript	Frontend interaction
 Java HTTP Server	Communication between website and Java
 NLP-style processing	Text normalization and keyword matching
+
 
 4. Features
 1. Interactive chatbot interface.
@@ -38,6 +41,7 @@ NLP-style processing	Text normalization and keyword matching
 8. Java-powered backend.
 9. Responsive website design.
 
+ 
 5. Project Structure
 Java_AI_Chatbot_Task3_Complete/
 │
@@ -55,11 +59,13 @@ Java_AI_Chatbot_Task3_Complete/
         └── app.js
 
 
+
 6. Requirements
 - JDK 17 or later
 - Visual Studio Code
 - Web browser (Chrome recommended)
 - Windows operating system (for the batch file)
+
 
 7. How to Run the Project
 1. Extract the downloaded ZIP file.
@@ -76,6 +82,7 @@ http://localhost:8080
 10. Start chatting with Nova AI.
 To stop the project: Press Ctrl + C in the terminal.
 
+
 8. Working Principle
 1. The user enters a message in the chatbot interface.
 2. JavaScript sends the message to the Java backend.
@@ -84,12 +91,14 @@ To stop the project: Press Ctrl + C in the terminal.
 5. Java generates an appropriate response.
 6. The response is displayed on the website.
 
+
 9. Applications
 - Educational assistance.
 - Basic programming support.
 - Answering frequently asked questions.
 - Learning Artificial Intelligence concepts.
 - Basic virtual assistance.
+
 
 10. Limitations
 - Uses predefined responses.
@@ -98,6 +107,7 @@ To stop the project: Press Ctrl + C in the terminal.
 - Cannot answer every question.
 - Does not retain conversations permanently.
 
+
 11. Future Enhancements
 - Integrate machine-learning algorithms.
 - Add voice-based interaction.
@@ -105,6 +115,7 @@ To stop the project: Press Ctrl + C in the terminal.
 - Add multilingual support.
 - Integrate an advanced AI model.
 - Implement conversation history.
+
 
 
 Developed by: Gouri Mangalgi
